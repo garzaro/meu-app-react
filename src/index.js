@@ -1,9 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-import App from './App';
-import Equipe from './components/equipe';
-
+import App from './main/App';
 
 /*ESSE AQUI DÁ O START NA APLICAÇÃO*/
 
@@ -13,9 +11,7 @@ root.render(
   <React.StrictMode>
 
     <App />
-    <Equipe />
 
   </React.StrictMode>
-  
-  
+
 );
