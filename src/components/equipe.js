@@ -47,6 +47,7 @@ function Equipe() {
         <div>
             <hr />
             <h3>Conheça nossa equipe de profissionais.</h3>
+
             <nav></nav>
 
             <NossaEquipe nome="Cleber" cargo="Aprendiz"
