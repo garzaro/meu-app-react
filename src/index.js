@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-import App from './main/App';
+import App from './App';
 
 /*ESSE AQUI DÁ O START NA APLICAÇÃO*/
 
